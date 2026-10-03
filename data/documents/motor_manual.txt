@@ -1,0 +1,11 @@
+FICTIONAL DEMONSTRATION DOCUMENT — NOT FOR REAL INDUSTRIAL USE
+Motor-017 Maintenance Manual
+
+Page 12
+Bearing condition: Increasing vibration together with rising bearing temperature can indicate bearing degradation. Inspect bearing condition, lubrication and coupling alignment before selecting repair parts.
+
+Page 18
+Electrical loading: Sustained current above the nameplate operating range requires investigation of load, phase balance, connections and motor condition. Do not assume overload is the sole cause.
+
+Page 21
+Safety: Follow site lockout/tagout procedures and approved electrical isolation practices. Intervention must be performed by qualified personnel. Never bypass protection systems or emergency stops.

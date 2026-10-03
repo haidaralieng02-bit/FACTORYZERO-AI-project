@@ -1,0 +1,8 @@
+FICTIONAL DEMONSTRATION DOCUMENT — NOT FOR REAL INDUSTRIAL USE
+Maintenance Procedure
+
+Page 7
+Inspection sequence: review alarm history; verify current and phase balance; inspect temperature and vibration; inspect coupling alignment; inspect lubrication; document findings.
+
+Page 9
+Repair decisions should follow confirmed inspection findings. Bearing replacement is appropriate only when inspection confirms bearing damage or unacceptable condition.

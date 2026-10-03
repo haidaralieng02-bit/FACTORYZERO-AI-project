@@ -1,0 +1,4 @@
+part_number,part_name,quantity,machine,criticality,production_rate_units_per_hour
+BRG-017,Bearing Kit,2,MOTOR-017,High,100
+CPL-017,Coupling Assembly,1,MOTOR-017,Medium,100
+CONN-KIT-017,Motor Connection Kit,2,MOTOR-017,Medium,100

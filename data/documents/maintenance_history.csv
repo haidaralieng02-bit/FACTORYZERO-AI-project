@@ -1,0 +1,4 @@
+date,machine,failure,symptom,root_cause,repair,parts,downtime
+2026-07-11,MOTOR-017,High vibration,Vibration and temperature rise,Bearing wear,Bearing replacement,Bearing-KIT-017,2.0
+2026-08-04,MOTOR-017,High current,Current above operating range,Load imbalance,Load inspection,CONN-KIT-017,1.5
+2026-08-27,MOTOR-017,Coupling issue,Vibration increase,Misalignment,Coupling alignment,CPL-017,2.0

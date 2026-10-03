@@ -1,0 +1,7 @@
+{
+  "incident_id": "INC-017-DEMO",
+  "machine_id": "MOTOR-017",
+  "machine_name": "Demo Motor 017",
+  "mode": "DEMO",
+  "production_rate_units_per_hour": 100
+}

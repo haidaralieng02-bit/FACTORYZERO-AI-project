@@ -1,0 +1,12 @@
+{
+  "machine_id": "MOTOR-017",
+  "scenario": "Synthetic gradual abnormal event",
+  "label": "DEMO / SIMULATED RESULT",
+  "sequence": [
+    "normal operation",
+    "temperature rises",
+    "vibration rises",
+    "current rises",
+    "electrical + mechanical inspection warranted"
+  ]
+}

@@ -1,0 +1,7 @@
+FICTIONAL DEMONSTRATION DOCUMENT — NOT FOR REAL INDUSTRIAL USE
+Alarm Reference
+
+Page 3
+A17 High motor temperature: check load, cooling, bearing condition and abnormal friction.
+Page 5
+A23 High vibration: inspect bearings, alignment, coupling and imbalance.
