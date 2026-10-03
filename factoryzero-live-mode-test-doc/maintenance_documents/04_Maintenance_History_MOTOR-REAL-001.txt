@@ -1,0 +1,21 @@
+FACTORYZERO TEST DOCUMENT — MAINTENANCE HISTORY
+Machine: MOTOR-REAL-001
+Machine name: Production Drive Motor 001
+
+2026-08-12
+Preventive inspection completed. Coupling alignment within tolerance. Bearing lubrication completed.
+
+2026-09-05
+Electrical terminal inspection completed. No visible overheating. Current approximately 22–24 A.
+
+2026-09-24
+Operator reported occasional increased noise during high-load operation.
+Follow-up vibration check recommended.
+
+2026-09-29
+Mild vibration increase noted. No parts replaced. Continue trend monitoring.
+
+2026-10-01
+Production load increased for test batch.
+
+This history is supporting evidence only. Current telemetry must be evaluated independently.

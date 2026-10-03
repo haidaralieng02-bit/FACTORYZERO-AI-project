@@ -1,0 +1,25 @@
+FACTORYZERO TEST DOCUMENT — MOTOR MAINTENANCE MANUAL
+Document ID: FZ-MOTOR-MAN-001
+Machine: MOTOR-REAL-001 / Production Drive Motor 001
+
+NORMAL OPERATING REFERENCE
+- Temperature: normally 55–80 °C.
+- Vibration: healthy operation normally below 4.5 mm/s RMS.
+- Current: typical operating current 20–27 A.
+- Loaded speed: approximately 1770–1790 RPM.
+
+WARNING / INVESTIGATION
+- Temperature approaching or exceeding 80 °C requires investigation.
+- Vibration from 4.5–7.0 mm/s RMS indicates a developing condition requiring inspection.
+- Current approaching 30 A should trigger load and electrical checks.
+- Persistent RPM reduction with rising current can indicate increased mechanical load.
+
+CRITICAL / URGENT CONDITION
+- Temperature above 85 °C with a rising trend requires urgent investigation.
+- Vibration above 7.0 mm/s RMS requires prompt investigation.
+- Sustained current above 30 A requires electrical/load investigation.
+- High temperature + high vibration + rising current together indicate a potentially
+  serious developing machine condition and should trigger controlled maintenance action.
+
+Do not bypass overload protection or safety interlocks.
+Follow the plant's approved LOTO procedure before maintenance.

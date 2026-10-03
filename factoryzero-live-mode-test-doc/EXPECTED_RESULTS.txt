@@ -1,0 +1,19 @@
+FactoryZero AI Live Mode — Expected Test Separation
+
+NORMAL:
+Temperature < 80 C
+Vibration < 4.5 mm/s
+Current < 27 A
+
+SLIGHT:
+Temperature ~70–77 C
+Vibration ~4.6–6.3 mm/s
+Current ~27–30 A
+Developing trends, but intentionally below the serious ranges.
+
+SERIOUS:
+Temperature ~85–94 C
+Vibration ~8.2–11.2 mm/s
+Current ~33–37 A
+RPM declining.
+Multiple strong abnormalities expected.

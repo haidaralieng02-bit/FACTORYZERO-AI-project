@@ -1,0 +1,20 @@
+FACTORYZERO TEST DOCUMENT — SPARE PARTS / TOOLS
+Document ID: FZ-SPARES-005
+
+Potential maintenance items:
+- Bearing set: BRG-6208-2RS
+- Coupling insert: CPL-45-STAR
+- Terminal lug set: TL-10-35
+- Approved bearing grease: GREASE-MP2
+
+Tools:
+- calibrated multimeter
+- clamp meter
+- vibration meter
+- infrared thermometer
+- alignment tool
+- torque wrench
+- approved mechanical hand tools
+
+Do not replace parts solely from an AI recommendation. Confirm machine condition,
+fault cause, part specification, and plant procedure first.

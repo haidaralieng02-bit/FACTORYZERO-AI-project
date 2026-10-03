@@ -1,0 +1,16 @@
+FACTORYZERO TEST DOCUMENT — SAFETY PROCEDURE
+Document ID: FZ-SAFE-003
+
+For any maintenance intervention:
+1. Follow the site's approved Lockout/Tagout (LOTO) procedure.
+2. Isolate electrical and mechanical energy sources.
+3. Verify zero-energy state before opening guards.
+4. Use required PPE and approved instruments.
+5. Only qualified personnel may perform energized electrical measurements.
+6. Never bypass overload relays, interlocks, guards, emergency stops, or protective devices.
+
+For severe overheating, smoke, burning smell, exposed conductors, abnormal mechanical noise,
+or signs of imminent mechanical failure, stop normal operation and escalate according to
+the plant emergency procedure.
+
+This document is synthetic test evidence and does not replace an actual plant safety procedure.

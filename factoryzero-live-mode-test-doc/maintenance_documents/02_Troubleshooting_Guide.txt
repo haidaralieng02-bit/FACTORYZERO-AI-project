@@ -1,0 +1,31 @@
+FACTORYZERO TEST DOCUMENT — TROUBLESHOOTING GUIDE
+
+SLIGHT / DEVELOPING CONDITION
+If vibration rises above the normal baseline but remains below 7 mm/s, inspect:
+- bearing lubrication and condition
+- coupling alignment
+- mounting bolts
+- driven load
+- recent maintenance history
+
+If current rises toward 30 A, check:
+- mechanical load
+- phase balance
+- electrical connections
+- motor cooling
+- bearing/mechanical resistance
+
+SERIOUS CONDITION
+If vibration exceeds 7 mm/s and temperature exceeds 85 °C while current exceeds 30 A,
+treat the combination as a serious condition requiring prompt controlled intervention.
+
+Possible causes:
+- bearing degradation
+- shaft/coupling misalignment
+- mechanical overload
+- electrical imbalance
+- cooling problem
+- combined mechanical/electrical deterioration
+
+The AI diagnosis is a hypothesis, not a confirmed physical fault. Confirm using
+approved inspection and measurement procedures.
